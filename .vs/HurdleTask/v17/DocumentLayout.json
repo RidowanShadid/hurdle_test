@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|c:\\users\\ridow\\source\\repos\\hurdletask\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|c:\\users\\ridow\\source\\repos\\hurdletask\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|c:\\users\\ridow\\source\\repos\\hurdletask\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|c:\\users\\ridow\\source\\repos\\hurdletask\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|solutionrelative:batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|c:\\users\\ridow\\source\\repos\\hurdletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD623EC4-E66E-41CD-8EA3-FA35607185EE}|HurdleTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Sales.cs",
+              "RelativeDocumentMoniker": "Sales.cs",
+              "ToolTip": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Sales.cs",
+              "RelativeToolTip": "Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:55:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:54:32.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Batch.cs",
+              "RelativeDocumentMoniker": "Batch.cs",
+              "ToolTip": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Batch.cs",
+              "RelativeToolTip": "Batch.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:53:56.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Thing.cs",
+              "RelativeDocumentMoniker": "Thing.cs",
+              "ToolTip": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Thing.cs",
+              "RelativeToolTip": "Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:52:33.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ridow\\source\\repos\\HurdleTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA+wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:51:18.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ridow\source\repos\HurdleTask\bin\Debug\net8.0\HurdleTask.exe
+C:\Users\ridow\source\repos\HurdleTask\bin\Debug\net8.0\HurdleTask.deps.json
+C:\Users\ridow\source\repos\HurdleTask\bin\Debug\net8.0\HurdleTask.runtimeconfig.json
+C:\Users\ridow\source\repos\HurdleTask\bin\Debug\net8.0\HurdleTask.dll
+C:\Users\ridow\source\repos\HurdleTask\bin\Debug\net8.0\HurdleTask.pdb
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.AssemblyInfoInputs.cache
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.AssemblyInfo.cs
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.csproj.CoreCompileInputs.cache
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.sourcelink.json
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.dll
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\refint\HurdleTask.dll
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.pdb
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\HurdleTask.genruntimeconfig.cache
+C:\Users\ridow\source\repos\HurdleTask\obj\Debug\net8.0\ref\HurdleTask.dll
